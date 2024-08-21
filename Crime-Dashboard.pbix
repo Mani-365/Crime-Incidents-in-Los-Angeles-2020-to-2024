@@ -1,14 +1,1 @@
-Power BI Dashboard Creation
 
-Key Metrics to Visualize:
-Total Number of Crimes: Display the total number of incidents by year and compare trends from 2020 to 2024.
-Crime Breakdown: Breakdown by crime type (e.g., theft, assault, burglary).
-Geospatial Analysis: Map crime incidents by location to identify hotspots or areas with increasing crime rates.
-Time Analysis: Visualize crime patterns by time of day, day of the week, and month.
-Demographic Analysis: If data is available, analyze crime incidents based on demographics.
-
-Visualizations:
-Line Charts: To show trends over time.
-Bar/Column Charts: For comparing different types of crimes.
-Slicers: Allow users to filter the data by year, crime type, location, etc.
-Interactive Elements: Enable drill-throughs and detailed views for specific crime types or locations.
